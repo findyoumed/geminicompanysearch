@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+langchain_community
+langchain
+langchain_google_genai
+docx
+langchain-huggingface
